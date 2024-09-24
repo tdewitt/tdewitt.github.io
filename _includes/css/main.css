@@ -96,12 +96,21 @@ header img {
     margin: 0 auto 20px;
 }
 
+
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+}
+
+header .intro-text .org {
+    display: block;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+    font-style: italic;
 }
 
 header .intro-text .skills {
@@ -117,6 +126,10 @@ header .intro-text .skills {
 
     header .intro-text .name {
         font-size: 4.75em;
+    }
+
+    header .intro-text .org {
+        font-size: 2.38em;
     }
 
     header .intro-text .skills {
@@ -212,7 +225,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba({{ site.color.primary-rgb }},.7);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
