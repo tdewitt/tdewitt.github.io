@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 3
+date: 2022-01-01
+img: redpanda.png
+alt: image-alt
+client: Redpanda
+project-start-date: January 2022
+project-duration: 2 years, 6 months
+engagement-type: Full Time
+category: Security, Reliability, DevOps, Compliance, Leadership
+description: >
+    Before joining Redpanda full-time, I spent two months consulting with the VP of Engineering and the SRE team to understand their architecture and processes. During this time, I identified areas for operational improvement and laid the groundwork for enhanced reliability. After officially joining as Head of SRE, I built and scaled the SRE team, established IT practices that were later handed off to the staff I hired, and created the Security Engineering team. I spearheaded SOC 2 compliance, completing Type I, and then transitioned the process to program management. Additionally, I drove significant cost savings through strategic vendor management and negotiations, and I led efforts to optimize cloud infrastructure. These initiatives improved system reliability, reduced operational toil, and ensured security best practices across the organization.
+---

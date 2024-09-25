@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2018-08-01
+img: siden.png
+alt: image-alt
+client: Siden
+project-start-date: August 2019
+project-duration: 2 years, 5 months
+engagement-type: Full Time
+category: Security, Reliability, DevOps
+description: >
+    I was introduced to Siden through a mutual connection with one of the founders. Over a three-month period, I engaged with leadership and engineering to provide strategic guidance on SRE practices, DevOps models, and microservice architecture. In August 2019, I officially joined as Principal SRE, eventually taking on the role of Head of SRE. I collaborated with product engineering teams to streamline operational efficiency across the Software Development Lifecycle. This included leading a company-wide revamp of CI/CD practices and authoring key security policies to ensure development processes integrated robust security standards from the ground up.
+---

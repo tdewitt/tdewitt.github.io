@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 2
+date: 2024-09-24
+img: planera.png
+alt: image-alt
+client: Planera Inc
+project-start-date: April 2024
+project-duration: Ongoing
+engagement-type: Advisory
+category: Security, Compliance
+description: >
+    I began informally advising Planera in mid-2022, working with their engineering leadership—two of whom were former colleagues from Siden—to help design and launch their product infrastructure. Officially engaged in April 2024, I was brought on to guide them through SOC 2 compliance. I worked closely with the team to establish controls, author policies, and ensure compliance readiness. Planera is now funded through a Series A, and I continue to play a key role in shaping their infrastructure and compliance strategies.
+---

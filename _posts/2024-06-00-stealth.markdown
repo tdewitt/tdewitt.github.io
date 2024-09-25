@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2024-06-01
+img: stealth.png
+alt: image-alt
+client: Stealth
+project-start-date: June 2024
+project-duration: Ongoing
+engagement-type: Advisory
+category: DevOps, Compliance
+description: >
+    I’m currently advising a pre-seed startup that is evolving an internal project at a well-known SaaS company into an open-source initiative. The project is licensed to allow commercial use with restrictions, ensuring a balance between open-source flexibility and controlled usage. The founders, having worked with me previously, reached out to have me design their core infrastructure to streamline SOC 2 compliance. This proactive approach enables them to move quickly in the space without the need for retrofitting compliance controls or cloud best practices later.
+---
